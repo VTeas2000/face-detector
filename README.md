@@ -7,9 +7,9 @@ This is the front-end portion of the application, and requires the back-end port
 in order to access all features of the application.
 
 In order to run this application (RUN THE BACK-END API PORTION FIRST):
-Clone this repository
-Run `npm install`
-Run `npm start`
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start`
 (Agree if prompted to run this front-end portion on another port)
 
 The App.js file contains my own Clarifai API key from (https://clarifai.com/). It can be replaced with your own Clarifai API key if you desire.
