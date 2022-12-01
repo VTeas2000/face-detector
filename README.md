@@ -1,7 +1,7 @@
 # face-detector
 
 This application can detect faces using image urls, which can be accessed from the register and login system (the application is local to the system
-so any data can be inputted). Once logged in, users can also view the amount of images they have scanned.
+so any data can be inputted, credentials are case-sensitive). Once logged in, users can also view the amount of images they have scanned.
 
 This is the front-end portion of the application, and requires the back-end portion with the API (https://github.com/VTeas2000/face-detector-api)
 in order to access all features of the application.
